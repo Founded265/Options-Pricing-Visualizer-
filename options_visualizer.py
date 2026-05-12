@@ -1,23 +1,5 @@
 """
-Options Pricing Visualizer (Pure Python + ReactPy)
-
-Run in VS Code:
-
-1. Create virtual environment:
-   python -m venv .venv
-
-2. Activate:
-   Windows PowerShell:
-   .venv/Scripts/Activate.ps1
-
-3. Install packages:
-   pip install reactpy scipy numpy
-
-4. Run app:
-   python options_visualizer.py
-
-5. Open browser:
-   http://127.0.0.1:8000
+Options Pricing Visualizer
 """
 
 from math import exp, log, sqrt
